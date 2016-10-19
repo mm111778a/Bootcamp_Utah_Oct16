@@ -7,11 +7,11 @@ Four teams were formed:
 * Team Think Better
 * Team Big 4
 
-<img src="./img/GoTeam.jpg" alt="The Go Team" width="400px" />
+<img src="./img/GoTeam.jpg" alt="The Go Team" width="600px" />
 
 
-<img src="./img/bdg.jpg" alt="Team BDG" width="400px" />
+<img src="./img/bdg.jpg" alt="Team BDG" width="600px" />
 
-<img src="./img/ThinkBetter.jpg" alt="Team Think Better" width="400px" />
+<img src="./img/ThinkBetter.jpg" alt="Team Think Better" width="600px" />
 
-<img src="./img/Big4.jpg" alt="Team Big 4" width="400px" />
+<img src="./img/Big4.jpg" alt="Team Big 4" width="600px" />
