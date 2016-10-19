@@ -7,7 +7,7 @@ Four teams were formed:
 * Team Think Better
 * Team Big 4
 
-![alt text](./img/GoTeam.jpg "The Go Team")
+![alt text](./img/GoTeam.jpg =400px "The Go Team")
 
 ![alt text](https://github.com/ThinkBigAnalytics/Bootcamp_Utah_Oct16/img/bdg.jpg "Team BDG")
 
