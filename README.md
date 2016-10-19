@@ -8,7 +8,7 @@ Four teams were formed:
 * Team Big 4
 
 <img src="./img/GoTeam.jpg" alt="The Go Team" width="600px" />
-
+Vincent Malmrose, Mark Mitchell, Karen Maureira, Leandro Ruiz, Maicol Pena
 
 <img src="./img/bdg.jpg" alt="Team BDG" width="600px" />
 
